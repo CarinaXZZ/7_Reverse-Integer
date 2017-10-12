@@ -1,0 +1,6 @@
+Reverse integer
+
+1. For Python it can only reverse the string using x[::-1]
+
+2. 32-bit integer: 2^32
+   If it is a signed integer, 1-bit is used for the sign: -2^31 to 2^31
