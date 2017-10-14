@@ -1,9 +1,12 @@
 Palindrome Number
 
-1. For python, change the integer to string than reverse it using x[::-1].
+1. Palindrome number:
+   Negative number is not palindrome
+
+2. For python, change the integer to string than reverse it using x[::-1].
    Then only need to check if the reverse string is the same as the origianl one.
    
-2. find the number of each place for an integer:
+3. Find the number of each place for an integer:
    ones place: num / 1 % 10
    tens place: num / 10 % 10
    hundreds place: num / 100 % 10
